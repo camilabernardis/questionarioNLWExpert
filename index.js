@@ -1,6 +1,6 @@
 const perguntas = [
     {
-      pergunta: "Qual palavra-chave é utilizada para declarar uma variável em JavaScript?",
+      pergunta: "Qual palavra-chave é utilizada para declarar uma constante em JavaScript?",
       respostas: [
         "var",
         "let",
@@ -60,7 +60,7 @@ const perguntas = [
         "Uma variável que não pode ser modificada",
         "Uma função que captura variáveis do seu ambiente",
       ],
-      correta: 3
+      correta: 2
     },
     {
       pergunta: "Qual é a forma correta de declarar uma função em JavaScript?",
@@ -69,7 +69,7 @@ const perguntas = [
         "const minhaFuncao = function() {}",
         "both a and b",
       ],
-      correta: 3
+      correta: 2
     },
     {
       pergunta: "O que é o JSON em JavaScript?",
@@ -87,7 +87,7 @@ const perguntas = [
         "Verificar se uma variável é indefinida",
         "Obter o tipo de dado de uma expressão",
       ],
-      correta: 3
+      correta: 2
     },
   ];
 
